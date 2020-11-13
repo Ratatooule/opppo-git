@@ -1,5 +1,4 @@
 #include <iostream>
-#include "feature.cpp"
 
 double my_pow(double number, unsigned int degree) {
     double numb = number;
